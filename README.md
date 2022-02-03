@@ -1,1 +1,1 @@
-# water_prediction
+# water_potability_prediction
